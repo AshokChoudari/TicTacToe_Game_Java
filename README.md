@@ -14,7 +14,13 @@ Players (human and CPU) input their moves by entering a number corresponding to 
 The positions are displayed to the players as follows:
 
 1 | 2 | 3
+
+- + - + -
+
 4 | 5 | 6
+
+- + - + -
+
 7 | 8 | 9
 
 
